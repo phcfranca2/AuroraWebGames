@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "AuroraWebGamesV3Att"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
